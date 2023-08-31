@@ -1,4 +1,4 @@
-#AMAZONA - MERN
+#AMAZONA
 
 #Lessons
 
